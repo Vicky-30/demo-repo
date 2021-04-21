@@ -1,3 +1,4 @@
 # Demo file 
 # See how git clone works 
-# Some Description
+# Description of lines
+# Added the like to make a commit
